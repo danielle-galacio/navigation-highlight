@@ -32,9 +32,14 @@ h1, h2 {
 h2 {
   font-size: 1.875rem;
   text-align: left;
-  margin: .3em;
-  padding-top: .75em;
-  padding-bottom: .75em;
+  padding: .8em .8em .8em .4em;
+}
+
+.h2 {
+  padding-top: .8em;
+  padding-bottom: 0em;
+  padding-right: .8em;
+  padding-left: .4em;
 }
 
 .nav {
@@ -71,7 +76,11 @@ main {
 }
 
 p {
-  margin: .3em;
+  padding: .2em .2em .2em .4em;
+}
+
+.p1 {
+  padding: .2em .2em .2em .3em;
 }
 
 img {
