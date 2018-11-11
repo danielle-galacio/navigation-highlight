@@ -37,7 +37,7 @@ h2 {
 
 .h2 {
   padding-top: .8em;
-  padding-bottom: 0em;
+  padding-bottom: 0;
   padding-right: .8em;
   padding-left: .4em;
 }
